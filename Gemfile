@@ -30,6 +30,7 @@ gem 'devise'
 gem 'twitter-bootstrap-rails'
 gem 'devise-bootstrap-views', '~> 1.0'
 gem 'jquery-rails'
+gem 'stripe'
 
 
 group :development, :test do
